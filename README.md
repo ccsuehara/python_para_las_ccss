@@ -1,6 +1,6 @@
 ## 1.	Información General
 
-Nombre del curso		: Fundamentos de Python para las Ciencias Sociales  y Gestión Pública.  
+Nombre del curso		: Fundamentos de Python para las Ciencias Sociales  
 Profesora del curso		: Carla Solis Uehara  
 Correo electrónico PUCP	: csolisu@pucp.edu.pe  
 Horario de clases		: 8:00 - 11:00 am   
