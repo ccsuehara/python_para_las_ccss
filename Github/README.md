@@ -11,17 +11,17 @@
 6. ¿Has aceptado la invitación al repo ? 
 7. ¿Tienen un editor de texto instalado ?  
 7.1 En windows, puede ser notepad, en mac, el textedit   
-7.2 En general, el mejor editor de texto es Sublime https://www.sublimetext.com/
+7.2 En los últimos años, el editor más popular es vscode https://code.visualstudio.com/ (pero sublime no se queda atrás)
 
 <a name="myfootnote1">1</a> Este material se basa fuertemente en los entrenamientos de [DIME](https://github.com/worldbank/dime-github-trainings), del World Bank. Gracias por la licencia MIT!
 (Y gracias a Alexander Quispe por el incentivo ahacer esta intro a github!)
 
 ### Cómo usar Github
 
-Los objetivos de aprendizaje de hoy serán:
+Objetivos de aprendizaje:
 
 - Explorar un proyecto de Github y ver en qué contribuyen los otros miembros. 
-- Descargar un repo de Github y que tú puedas trabajar en este. 
+- Descargar un repo de Github y poder trabajar con él. 
 - Crear un espacio en el repo del proyecto en el que tú puedas trabajar. 
 - Realizar cambios y mejoras al proyecto, y poder subir esos cambios. 
 - Crear mi propio proyecto!
@@ -45,12 +45,12 @@ Entiende y sigue instrucciones del administrador del repo.
 
 - Github trackea no solo las iniciales y la hora, sino cada edición hecha al documento. 
 
->> OJO: github no lee archivos binarios (o archivos que no sean texto)
+>> OJO: github no lee archivos binarios (o archivos que no sean puro texto).
 
 - Github también soluciona: 
     - Problemas de copia conflictiva (Dropbox, etc)
     - No puedo reproducir los resultados de mi tesis
-    - Quién escribió esto hace muchos anios
+    - Quién escribió esto hace muchos años
 
 Los conceptos que manejaremos hoy son 3: 
 
@@ -60,7 +60,7 @@ Clonar es similar a descargar un repositorio.
 La diferencia entre clonar y descargar es que **Github recuerda de dónde descargamos el repositorio**. Esto es necesario para saber a dónde mandar nuestros cambios cuando seamos contribuidores. 
 
 ### Cómo clonar un repo
-1. Ve a https://github.com/ccsuehara/letras_verano2022
+1. Ve a https://github.com/ccsuehara/letras_2024
 2. Hagan click en el botón verde que dice *Code*
 3. Dale click en *Open with Github Desktop*
 4. Selecciona la carpeta de tu computadora donde se clonará el repo. **NO** lo clones en una carpeta compartida de Dropbox, Box, etc. 
@@ -93,12 +93,12 @@ Antes de hacer un commit, necesitamos saber sobre los branches, por ahora les mo
 - Confirmen que ven el archivo
 - ¿Ven el sync en Github Desktop ?
 
-Ahora podemos empezar a explorar el repo https://github.com/ccsuehara/letras_verano2022
+Ahora podemos empezar a explorar el repo https://github.com/ccsuehara/letras_2024
 
 Vemos que la lista de commits es más significativa ya que solo nos muestra los cambios importantes que hemos hecho. 
 
 
-https://github.com/ccsuehara/letras_verano2022 
+https://github.com/ccsuehara/letras_verano2024
 <br>
 
 </br>
@@ -110,7 +110,7 @@ OJO 2: ¿Ven que hice un pull ???
 
 - Los branches son la propiedad "killer"/genial de Git. Esto hace a Git una herramienta poderosa de colaboración y no solo de control de versiones.
 
-- Los branches **permiten crear una copia del código donde puedes experimentar/jugar** con él. Si te gusta el resultado, **puedes mergear el experimento a la versión principal**.
+- Los branches **permiten crear una copia del código donde puedes experimentar/jugar/desarrollar** con él. Si te gusta el resultado, **puedes mergear el experimento a la versión principal**.
 
 - Esta versión no-lineal es más fidedigna a cómo se trabaja en la vida real. 
 
@@ -168,7 +168,7 @@ Cuando las ediciones que hiciste están listas para ser mergeadas con el *main*,
 
 Es común que el acceso a la rama *main* solo la tenga el repo maintainer (no todos los contribuidores).
 
-- Ve a https://github.com/ccsuehara/letras_verano2022/pulls y dale click a *New pull request*
+- Ve a https://github.com/ccsuehara/letras_2024/pulls y dale click a *New pull request*
 - Asegúrate de que la branch *main* esté seleccionada como *base:* branch. 
 - Selecciona tu branch como *compare:* branch
 - Scrollea para ver que tus ediciones son las que quieres que se integren con la main branch, dale click a *Create pull request*
@@ -179,7 +179,7 @@ Es común que el acceso a la rama *main* solo la tenga el repo maintainer (no to
 
 ## PARA TERMINAR
 
-### ¿¿¿ Y ahora cómo creo mis propios repos???
+### ¿ Y cómo creo mis propios repos?
 
 Usualmente, Github servirá para almacenar proyectos individuales. Reordenando los pasos aprendidos a lo largo de este tutorial, podemos crear nuestros propios repos!
 
@@ -187,7 +187,7 @@ Usualmente, Github servirá para almacenar proyectos individuales. Reordenando l
 
 <img src="./img/create_repo.png" alt="drawing" width="300" />
 
-2. Luego, elige el nombre del repo!. 
+2. Luego, elige el nombre del repo. 
 Tambien tenemos otras opciones, como agregar una descripción del repo, volverlo público/privado, agregarle un .gitignore, un README.md, y una licencia. Creen el repositorio!
 
 <img src="./img/create_repo1.png" alt="drawing" width="400" />
@@ -204,14 +204,14 @@ Tambien tenemos otras opciones, como agregar una descripción del repo, volverlo
 
 6. Listo, ya tienes un folder asociado a un repo en tu computadora. Intenta hacer tu primer commit y verifica que 
 
-OJO: NO OLVIDEN DE HACER COMMIT CONSTANTEMENTE A SU TRABAJO!!!   
-OJO 2: NO OLVIDEN SINCRONIZAR DESPUES DE HACER COMMIT!!!
+OJO: NO OLVIDEN DE HACER COMMIT CONSTANTEMENTE A SU TRABAJO   
+OJO 2: NO OLVIDEN SINCRONIZAR DESPUES DE HACER COMMIT!
 <br> <br/>
 ## Otros recursos de aprendizaje: 
 
 ### Aprender Github desde el command line: 
 
-- En este tutorial, hemos lo visto los elementos esenciales para utilizar Github, sin embargo, hay una forma de usar Github desde la consola. Aquí hay una lista de referencias en caso quieran explorar más este uso. 
+- En este tutorial, hemos visto los elementos esenciales para utilizar Github, sin embargo, hay una forma de usar Github desde la consola. Aquí hay una lista de referencias en caso quieran explorar más este uso. 
 
 https://education.github.com/git-cheat-sheet-education.pdf
 
