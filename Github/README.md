@@ -67,7 +67,7 @@ La diferencia entre clonar y descargar es que **Github recuerda de dónde descar
 
 Finalmente, explora el folder clonado! Compáralo con lo que viste en Github. 
 
-**OTRO CLONADO IMPORTANTE** : https://github.com/ccsuehara/python_ccss
+**OTRO CLONADO IMPORTANTE** : https://github.com/ccsuehara/python_para_las_ccss
 
 ## 2. Commit 
 
@@ -98,7 +98,7 @@ Ahora podemos empezar a explorar el repo https://github.com/ccsuehara/letras_202
 Vemos que la lista de commits es más significativa ya que solo nos muestra los cambios importantes que hemos hecho. 
 
 
-https://github.com/ccsuehara/letras_verano2024
+https://github.com/ccsuehara/letras_2024
 <br>
 
 </br>
