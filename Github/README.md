@@ -7,7 +7,7 @@
 2. Mándame tu nombre de usuario a csolisu@pucp.edu.pe
 3. ¿Ya tienes instalado Github Desktop ? En caso no lo tengas, ve a https://desktop.github.com/ e instálalo. 
 4. ¿Has iniciado sesión en Github Desktop? En caso no, inicia sesión con tu cuenta creada. 
-5. Has sido invitadx al repo https://github.com/ccsuehara/letras_verano2022
+5. Has sido invitadx al repo https://github.com/ccsuehara/letras_2024
 6. ¿Has aceptado la invitación al repo ? 
 7. ¿Tienen un editor de texto instalado ?  
 7.1 En windows, puede ser notepad, en mac, el textedit   
@@ -61,13 +61,13 @@ La diferencia entre clonar y descargar es que **Github recuerda de dónde descar
 
 ### Cómo clonar un repo
 1. Ve a https://github.com/ccsuehara/letras_2024
-2. Hagan click en el botón verde que dice *Code*
+2. Haz click en el botón verde que dice *Code*
 3. Dale click en *Open with Github Desktop*
 4. Selecciona la carpeta de tu computadora donde se clonará el repo. **NO** lo clones en una carpeta compartida de Dropbox, Box, etc. 
 
 Finalmente, explora el folder clonado! Compáralo con lo que viste en Github. 
 
-**OTRO CLONADO IMPORTANTE** : https://github.com/ccsuehara/python_verano
+**OTRO CLONADO IMPORTANTE** : https://github.com/ccsuehara/python_ccss
 
 ## 2. Commit 
 
@@ -77,7 +77,7 @@ Por ejemplo, miremos al control de versiones que tiene un google doc:
 
 <img src="./img/version_control_drive.png" alt="drawing" width="400" />
 
-Todas las versiones de este documento están almacenadas. Se pueden ver los cambios que hizo cada contribuidora al documento. Sin embargo, Google docs almacena todas las versiones!
+Todas las versiones de este documento están almacenadas. Se pueden ver los cambios que hizo cada contribuidora al documento. Sin embargo, Google docs almacena la totalidad de todas las versiones!
 
 Para no tener que guardar todas estas versiones, Git  **usa los commits para indicar las differencias significativas entre versión y versión**
 
@@ -90,7 +90,7 @@ Antes de hacer un commit, necesitamos saber sobre los branches, por ahora les mo
 
 - Creé un nuevo archivo .txt llamado lyrics en mi folder clonado. 
 - Usé github desktop para hacer commit al repo. 
-- Confirmen que ven el archivo
+- Confirma que ven el archivo que acabo de subir
 - ¿Ven el sync en Github Desktop ?
 
 Ahora podemos empezar a explorar el repo https://github.com/ccsuehara/letras_2024
@@ -103,7 +103,7 @@ https://github.com/ccsuehara/letras_verano2024
 
 </br>
 
-OJO 2: ¿Ven que hice un pull ???
+OJO 2: ¿Ves que hice un pull ???
 
 ## 3. Branch 
 
@@ -122,14 +122,14 @@ OJO 2: ¿Ven que hice un pull ???
 
 Cual es la versión clonada en tu computadora? Cuando se clona un repo **todas las versiones** son clonadas, pero **solo una** es la que se muestra en nuestra carpeta. 
 
-Haz la prueba de cambiar la rama, en https://github.com/ccsuehara/letras_verano2022/, ¿cambia acaso el contenido? 
+Haz la prueba de cambiar la rama, en https://github.com/ccsuehara/letras_2024/, ¿cambia acaso el contenido? 
 
 
-Un flujo de trabajo típico en Git implica tener varias ramas. Hay otras herramientas en Github qhe vuelve este flujo de trabajo muy manejable, sin embargo, está fuera del alcance de hoy. 
+Un flujo de trabajo típico en Git implica tener varias ramas. Hay otras herramientas en Github que vuelve este flujo de trabajo muy manejable, sin embargo, está fuera del alcance de hoy. 
 
 ## Creando una branch
 
-- Ve a https://github.com/ccsuehara/letras_verano2022, y dale click al botón que dice (símbolo branch) main. **Asegúrate que sea el main!!!**
+- Ve a https://github.com/ccsuehara/letras_2024, y dale click al botón que dice (símbolo branch) main. **Asegúrate que sea el main!!!**
 
 - Escribe tu nombre "nombre_apellido" en el cuadro de diálogo y dale click para crear la branch. 
 
@@ -153,18 +153,23 @@ Un flujo de trabajo típico en Git implica tener varias ramas. Hay otras herrami
     3. Haz click en el boton de sync. 
 
 
+
+
+
 ### Checkea tu commit en Github
 
-Ve a https://github.com/ccsuehara/letras_verano2022/network
+Ve a https://github.com/ccsuehara/letras_2024/network
 - Puedes encontrar tu commit ? 
 
-Ve a https://github.com/ccsuehara/letras_verano2022/commits
+Ve a https://github.com/ccsuehara/letras_2024/commits
 - Puedes ver tu commit? Asegúrate de mirar tu branch. 
 
 ## Pull requests 
 
 Una propiedad adicional a los branches es el **pull request**
 Cuando las ediciones que hiciste están listas para ser mergeadas con el *main*, puedes hacer un pull request, lo cual integrará tus ediciones en la rama *main*. 
+
+### OJO: por favor no aceptes tu mism@ el merge pull. Yo lo haré.
 
 Es común que el acceso a la rama *main* solo la tenga el repo maintainer (no todos los contribuidores).
 
@@ -209,7 +214,7 @@ OJO 2: NO OLVIDEN SINCRONIZAR DESPUES DE HACER COMMIT!
 <br> <br/>
 ## Otros recursos de aprendizaje: 
 
-### Aprender Github desde el command line: 
+### Aprender Github desde el command line/ línea de comandos: 
 
 - En este tutorial, hemos visto los elementos esenciales para utilizar Github, sin embargo, hay una forma de usar Github desde la consola. Aquí hay una lista de referencias en caso quieran explorar más este uso. 
 
