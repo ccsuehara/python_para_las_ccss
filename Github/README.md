@@ -130,12 +130,11 @@ Cada commit tiene un timestamp (dentro de este ya tiene un id que incluye fecha 
 
 0. Crear .txt llamado lyrics en mi nuevo repo y lo guardé. Abre el tab de cambios (changes) en Github Desktop. 
 Github desktop se ha dado cuenta que hay nuevos cambios a tu repo.
-1. Sigue los siguientes 3 pasos para hacer commit:  
+1. Sigue los siguientes 4 pasos para hacer commit:  
     1. Asegúrate de que tus cambios estén marcados. 
     2. Escribe un mensaje de commit. 
-    3. Haz click en el boton de sync. 
-    4. Finalmente, haz un git push
-
+    3. Haz click en el boton de commit. 
+    4. Finalmente, haz un git push.
 
 
 ### Checkea tu commit en Github
