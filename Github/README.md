@@ -144,6 +144,8 @@ Ve a https://github.com/nombredeusuario/nombrederepo/network
 
 Ve a https://github.com/nombredeusuario/nombrederepo/commits
 
+#### ¿Qué es un git push?
+- El git push es la acción de subir los cambios del repo local al repo remoto, de manera que ambos se sincronizan.
 
 ## 2. Clone (clonar)
 
@@ -158,31 +160,17 @@ La diferencia entre clonar y descargar es que **Github recuerda de dónde descar
 
 Finalmente, explora el folder clonado! Compáralo con lo que viste en Github. 
 
-### Diferencias con un fork 
+Cada vez que haya una actualización en el repo del curso, puedes hacer un git pull de los nuevos cambios. 
 
-
-## Pull requests 
-
-Una propiedad adicional a los branches es el **pull request**
-Cuando las ediciones que hiciste están listas para ser mergeadas con el *main*, puedes hacer un pull request, lo cual integrará tus ediciones en la rama *main*. 
-
-### OJO: por favor no aceptes tu mism@ el merge pull. Yo lo haré.
-
-Es común que el acceso a la rama *main* solo la tenga el repo maintainer (no todos los contribuidores).
-
-- Ve a https://github.com/ccsuehara/letras_2025_0/pulls y dale click a *New pull request*
-- Asegúrate de que la branch *main* esté seleccionada como *base:* branch. 
-- Selecciona tu branch como *compare:* branch
-- Scrollea para ver que tus ediciones son las que quieres que se integren con la main branch, dale click a *Create pull request*
-
-
+#### ¿Qué es un git pull?
+- El git pull es la acción de subir los cambios del repo remoto al repo local, de manera que ambos se sincronizan.
 
 
 
 6. Listo, ya tienes un folder asociado a un repo en tu computadora. Intenta hacer tu primer commit y verifica que 
 
-OJO: NO OLVIDEN DE HACER COMMIT CONSTANTEMENTE A SU TRABAJO   
-OJO 2: NO OLVIDEN SINCRONIZAR DESPUES DE HACER COMMIT!
+OJO: NO OLVIDAR DE HACER COMMIT CONSTANTEMENTE A SU TRABAJO   
+OJO 2: NO OLVIDAR SINCRONIZAR DESPUES DE HACER COMMIT!
 
 
 
@@ -225,6 +213,22 @@ Un flujo de trabajo típico en Git implica tener varias ramas. Hay otras herrami
 2. Abre un editor de texto. 
 3. Googlea la letra de tu canción favorita y cópiala en el editor de texto que acabas de abrir.  
 4. Guarda el archivo en formato *.txt* con el nombre tunombre_cancion. 
+
+
+## Pull requests 
+
+Una propiedad adicional a los branches es el **pull request**
+Cuando las ediciones que hiciste están listas para ser mergeadas con el *main*, puedes hacer un pull request, lo cual integrará tus ediciones en la rama *main*. 
+
+### OJO: por favor no aceptes tu mism@ el merge pull. Yo lo haré.
+
+Es común que el acceso a la rama *main* solo la tenga el repo maintainer (no todos los contribuidores).
+
+- Ve a https://github.com/ccsuehara/letras_2025_0/pulls y dale click a *New pull request*
+- Asegúrate de que la branch *main* esté seleccionada como *base:* branch. 
+- Selecciona tu branch como *compare:* branch
+- Scrollea para ver que tus ediciones son las que quieres que se integren con la main branch, dale click a *Create pull request*
+
 
 <br> <br/>
 ## Otros recursos de aprendizaje: 
