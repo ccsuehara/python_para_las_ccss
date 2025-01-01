@@ -134,6 +134,7 @@ Github desktop se ha dado cuenta que hay nuevos cambios a tu repo.
     1. Asegúrate de que tus cambios estén marcados. 
     2. Escribe un mensaje de commit. 
     3. Haz click en el boton de sync. 
+    4. Finalmente, haz un git push
 
 
 
