@@ -27,9 +27,9 @@ La importancia de este curso radica en la creciente importancia de la programaci
 
 ## 4.	Contenido del Curso: 
 
-Introducción a python
+Introducción a python   
 ●	Python como lenguaje de programación    
-●	Configuración de un entorno de programación 
+●	Configuración de un entorno de programación          
 ●	Sintaxis básica y tipos de datos (string, integer, float, boolean)  
 ●	Variables y asignación  
 ●	Operadores básicos (aritméticos, comparación, lógicos)  
@@ -37,15 +37,15 @@ Introducción a python
 
 Estructuras de control  
 ●	sentencias if-else
-●	for loops   
-●	while loops 
-●	break y continue    
+●	for loops      
+●	while loops  
+●	break y continue        
 ●	manejo de errores y excepciones 
 
 Funciones   
 ●	Definir y llamar funciones  
-●	Parámetros y argumentos 
-●	Valor de retorno    
+●	Parámetros y argumentos  
+●	Valor de retorno        
 ●	Scope   
 
 Estructuras de datos    
@@ -55,20 +55,20 @@ Estructuras de datos
 ●	Sets    
 
 Trabajando con archivos 
-●	Leer y escribir archivos    
+●	Leer y escribir archivos        
 ●	Tipos de datos: tabular, json   
 
 Módulos y paquetes  
-●	Importar y exportar módulos 
-●	Instalación y uso de paquetes      
+●	Importar y exportar módulos  
+●	Instalación y uso de paquetes         
 
 Introducción a la ciencia de datos  
 ●	Obtener datos   
-o	Web-scrapping   
-o	APIs    
+    o	Web-scrapping   
+    o	APIs    
 ●	Trabajar con datos  
-o	Pandas  
-o	Visualización de datos   
+    o	Pandas  
+    o	Visualización de datos   
 o	Análisis geoespacial    
 
 Git
