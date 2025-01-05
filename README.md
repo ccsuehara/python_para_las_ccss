@@ -27,52 +27,52 @@ La importancia de este curso radica en la creciente importancia de la programaci
 
 ## 4.	Contenido del Curso: 
 
-Introducción a python   
-●	Python como lenguaje de programación    
-●	Configuración de un entorno de programación          
-●	Sintaxis básica y tipos de datos (string, integer, float, boolean)  
-●	Variables y asignación  
-●	Operadores básicos (aritméticos, comparación, lógicos)  
-●	Inputs y outputs básicos    
+Introducción a python    
+●	Python como lenguaje de programación     
+●	Configuración de un entorno de programación           
+●	Sintaxis básica y tipos de datos (string, integer, float, boolean)   
+●	Variables y asignación   
+●	Operadores básicos (aritméticos, comparación, lógicos)   
+●	Inputs y outputs básicos     
 
-Estructuras de control  
-●	sentencias if-else
-●	for loops      
-●	while loops  
-●	break y continue        
-●	manejo de errores y excepciones 
+Estructuras de control   
+●	sentencias if-else 
+●	for loops       
+●	while loops   
+●	break y continue         
+●	manejo de errores y excepciones  
 
-Funciones   
-●	Definir y llamar funciones  
-●	Parámetros y argumentos  
-●	Valor de retorno        
-●	Scope   
+Funciones    
+●	Definir y llamar funciones   
+●	Parámetros y argumentos   
+●	Valor de retorno         
+●	Scope    
 
-Estructuras de datos    
-●	Listas  
-●	Tuplas  
-●	Diccionarios    
-●	Sets    
+Estructuras de datos     
+●	Listas   
+●	Tuplas   
+●	Diccionarios     
+●	Sets     
 
-Trabajando con archivos 
-●	Leer y escribir archivos        
-●	Tipos de datos: tabular, json   
+Trabajando con archivos  
+●	Leer y escribir archivos         
+●	Tipos de datos: tabular, json    
 
-Módulos y paquetes  
-●	Importar y exportar módulos  
-●	Instalación y uso de paquetes         
+Módulos y paquetes   
+●	Importar y exportar módulos   
+●	Instalación y uso de paquetes          
 
-Introducción a la ciencia de datos  
-●	Obtener datos   
-    o	Web-scrapping   
-    o	APIs    
-●	Trabajar con datos  
-    o	Pandas  
-    o	Visualización de datos   
-o	Análisis geoespacial    
+Introducción a la ciencia de datos   
+●	Obtener datos    
+    o	Web-scrapping    
+    o	APIs     
+●	Trabajar con datos   
+    o	Pandas   
+    o	Visualización de datos    
+o	Análisis geoespacial     
 
-Git
-●	Usar git como herramienta de control de cambios
+Git 
+●	Usar git como herramienta de control de cambios 
 
 
 ## 5.	Evaluación
