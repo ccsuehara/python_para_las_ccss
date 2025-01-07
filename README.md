@@ -27,56 +27,56 @@ La importancia de este curso radica en la creciente importancia de la programaci
 
 ## 4.	Contenido del Curso: 
 
-Introducción a python   
-●	Python como lenguaje de programación    
-●	Configuración de un entorno de programación          
-●	Sintaxis básica y tipos de datos (string, integer, float, boolean)  
-●	Variables y asignación  
-●	Operadores básicos (aritméticos, comparación, lógicos)  
-●	Inputs y outputs básicos    
+Introducción a python    
+●	Python como lenguaje de programación     
+●	Configuración de un entorno de programación           
+●	Sintaxis básica y tipos de datos (string, integer, float, boolean)   
+●	Variables y asignación   
+●	Operadores básicos (aritméticos, comparación, lógicos)   
+●	Inputs y outputs básicos     
 
-Estructuras de control  
-●	sentencias if-else
-●	for loops      
-●	while loops  
-●	break y continue        
-●	manejo de errores y excepciones 
+Estructuras de control   
+●	sentencias if-else 
+●	for loops       
+●	while loops   
+●	break y continue         
+●	manejo de errores y excepciones  
 
-Funciones   
-●	Definir y llamar funciones  
-●	Parámetros y argumentos  
-●	Valor de retorno        
-●	Scope   
+Funciones    
+●	Definir y llamar funciones   
+●	Parámetros y argumentos   
+●	Valor de retorno         
+●	Scope    
 
-Estructuras de datos    
-●	Listas  
-●	Tuplas  
-●	Diccionarios    
-●	Sets    
+Estructuras de datos     
+●	Listas   
+●	Tuplas   
+●	Diccionarios     
+●	Sets     
 
-Trabajando con archivos 
-●	Leer y escribir archivos        
-●	Tipos de datos: tabular, json   
+Trabajando con archivos  
+●	Leer y escribir archivos         
+●	Tipos de datos: tabular, json    
 
-Módulos y paquetes  
-●	Importar y exportar módulos  
-●	Instalación y uso de paquetes         
+Módulos y paquetes   
+●	Importar y exportar módulos   
+●	Instalación y uso de paquetes          
 
-Introducción a la ciencia de datos  
-●	Obtener datos   
-    o	Web-scrapping   
-    o	APIs    
-●	Trabajar con datos  
-    o	Pandas  
-    o	Visualización de datos   
-o	Análisis geoespacial    
+Introducción a la ciencia de datos   
+●	Obtener datos    
+    o	Web-scrapping    
+    o	APIs     
+●	Trabajar con datos   
+    o	Pandas   
+    o	Visualización de datos    
+o	Análisis geoespacial     
 
-Git
-●	Usar git como herramienta de control de cambios
+Git 
+●	Usar git como herramienta de control de cambios 
 
 
 ## 5.	Evaluación
-La evaluación consistirá en tres tareas cada dos semanas, tres ejercicios cortos cada dos semanas y un trabajo final. Se eliminará la calificación más baja de las tres tareas. El peso total de cada uno de los componentes será el siguiente:
+La evaluación consistirá en dos tareas y un trabajo final. El peso total de cada uno de los componentes será el siguiente:
 
 |Evaluación| Peso|
 | ----------- | ----------- |
@@ -90,8 +90,7 @@ Las y los estudiantes tendrán la posibilidad de presentar las tareas después d
 - Downey, A. (2015). Think Python: How to Think Like a Computer Scientist (2nd ed.). O'Reilly Media. 
 - VanderPlas, J. (2016). Python Data Science Handbook. O'Reilly Media. 
 - Matthes, E. (2016). Python crash course: A hands – on, project-based introduction to programming (2nd ed.). No Starch Press
-- Sweigart, A. (2015). Automate the Boring Stuff with Python: Practical
-Programming for Total Beginners. No Starch Press. 
+- Sweigart, A. (2015). Automate the Boring Stuff with Python: Practical Programming for Total Beginners. No Starch Press. 
 
 
 

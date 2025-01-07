@@ -193,14 +193,14 @@ OJO 2: NO OLVIDAR SINCRONIZAR DESPUES DE HACER COMMIT!
 
 Cual es la versión clonada en tu computadora? Cuando se clona un repo **todas las versiones** son clonadas, pero **solo una** es la que se muestra en nuestra carpeta. 
 
-Haz la prueba de cambiar la rama, en https://github.com/ccsuehara/letras_2024/, ¿cambia acaso el contenido? 
+Haz la prueba de cambiar la rama, en https://github.com/ccsuehara/letras_2025_0/, ¿cambia acaso el contenido? 
 
 
 Un flujo de trabajo típico en Git implica tener varias ramas. Hay otras herramientas en Github que vuelve este flujo de trabajo muy manejable, sin embargo, está fuera del alcance de hoy. 
 
 ## Creando una branch
 
-- Ve a https://github.com/ccsuehara/letras_2024, y dale click al botón que dice (símbolo branch) main. **Asegúrate que sea el main!!!**
+- Ve a https://github.com/ccsuehara/letras_2025_0, y dale click al botón que dice (símbolo branch) main. **Asegúrate que sea el main!!!**
 
 - Escribe tu nombre "nombre_apellido" en el cuadro de diálogo y dale click para crear la branch. 
 
