@@ -1,14 +1,16 @@
+# Fundamentos de programación en Python para las Ciencias Sociales 
+
 ## 1.	Información General
 
 Nombre del curso		: Fundamentos de Python para las Ciencias Sociales  
 Profesora del curso		: Carla Solis Uehara  
 Correo electrónico PUCP	: csolisu@pucp.edu.pe  
-Horario de clases		: 
-- 04/01/2025: 8am - 12pm	
-- 06/01/2025: 7pm - 10pm
-- 07/01/2025: 7pm - 10pm
-- 09/01/2025: 7pm - 10pm
-- 11/01/2025: 8am - 11am
+Horario de clases		:	 
+- 03/01/2026: 8am - 12pm	
+- 06/01/2026: 7pm - 10pm	
+- 08/01/2026: 7pm - 10pm	
+- 10/01/2026: 8am - 12pm	
+- 13/01/2026: 8am - 11am	
 
 
 ## 2.	Justificación
@@ -27,52 +29,28 @@ La importancia de este curso radica en la creciente importancia de la programaci
 
 ## 4.	Contenido del Curso: 
 
-Introducción a python    
-●	Python como lenguaje de programación     
-●	Configuración de un entorno de programación           
-●	Sintaxis básica y tipos de datos (string, integer, float, boolean)   
-●	Variables y asignación   
-●	Operadores básicos (aritméticos, comparación, lógicos)   
-●	Inputs y outputs básicos     
+### Sesión 1 — Fundamentos
+- Introducción
+- GitHub
+- Variables
+- Estructuras de datos
 
-Estructuras de control   
-●	sentencias if-else 
-●	for loops       
-●	while loops   
-●	break y continue         
-●	manejo de errores y excepciones  
+### Sesión 2 — Control de Flujo y Funciones
+- Control Flow 
+- Funciones (parte 1)
 
-Funciones    
-●	Definir y llamar funciones   
-●	Parámetros y argumentos   
-●	Valor de retorno         
-●	Scope    
+### Sesión 3 — Funciones Avanzadas y OOP
+- Funciones (parte 2)
+- Programación Orientada a Objetos
 
-Estructuras de datos     
-●	Listas   
-●	Tuplas   
-●	Diccionarios     
-●	Sets     
+### Sesión 4 — Análisis de Datos
+- NumPy
+- Pandas
+- Visualización de datos
 
-Trabajando con archivos  
-●	Leer y escribir archivos         
-●	Tipos de datos: tabular, json    
-
-Módulos y paquetes   
-●	Importar y exportar módulos   
-●	Instalación y uso de paquetes          
-
-Introducción a la ciencia de datos   
-●	Obtener datos    
-    o	Web-scrapping    
-    o	APIs     
-●	Trabajar con datos   
-    o	Pandas   
-    o	Visualización de datos    
-o	Análisis geoespacial     
-
-Git 
-●	Usar git como herramienta de control de cambios 
+### Sesión 5 — Obtención de Datos
+- Web Scraping
+- APIs
 
 
 ## 5.	Evaluación
@@ -84,7 +62,7 @@ La evaluación consistirá en dos tareas y un trabajo final. El peso total de ca
 |Trabajo final (1)	|	 	40% |
 
 
-Las y los estudiantes tendrán la posibilidad de presentar las tareas después de fecha, sin embargo, se aplicará una penalidad del 15% sobre la nota final de la tarea por cada día que pase.
+Las y los estudiantes tendrán la posibilidad de presentar las tareas después de fecha, sin embargo, se aplicará una penalidad del 10% sobre la nota final de la tarea por cada día que pase.
 
 ## 6.	Bibliografía
 - Downey, A. (2015). Think Python: How to Think Like a Computer Scientist (2nd ed.). O'Reilly Media. 
