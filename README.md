@@ -10,7 +10,7 @@ Horario de clases		:
 - 06/01/2026: 7pm - 10pm	
 - 08/01/2026: 7pm - 10pm	
 - 10/01/2026: 8am - 12pm	
-- 13/01/2026: 8am - 11am	
+- 13/01/2026: 7pm - 9pm	
 
 
 ## 2.	Justificación
